@@ -4,6 +4,7 @@ Liste d'applications/opportunités utiles pour les télétravailleurs dans le ca
 ***
 
 ## Informations pratiques sur le virus
+- INFO [Attestationt papier uniquement | NextInpact](https://www.nextinpact.com/news/108799-confinement-en-france-telechargez-modele-dattestation-obligatoire-en-cas-deplacement.htm)
 - INFO [Attestation circulation | GOUV](https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/03/attestation_de_deplacement_derogatoire.pdf)
 - INFO [FAQ Virus | GOUV FR](https://www.gouvernement.fr/info-coronavirus)
 - INFO [Conseils au grand public | OMS](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
