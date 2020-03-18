@@ -5,12 +5,13 @@ Liste d'applications/opportunités utiles pour les télétravailleurs dans le ca
 
 ## Informations pratiques sur le virus
 - INFO [Attestation circulation | GOUV](https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/03/attestation_de_deplacement_derogatoire.pdf)
-- INFO [GOUV FR](https://www.gouvernement.fr/info-coronavirus)
-- INFO [OMS](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
-- INFO [OMS](https://www.who.int/fr/health-topics/coronavirus/coronavirus)
-- INFO [OMS](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses)
+- INFO [FAQ Virus | GOUV FR](https://www.gouvernement.fr/info-coronavirus)
+- INFO [Conseils au grand public | OMS](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
+- INFO [Résumé Virus | OMS](https://www.who.int/fr/health-topics/coronavirus/coronavirus)
+- INFO [FAW Virus | OMS](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses)
 
 ## Visio/collab
+- FREE [Matrix | Matrix.org Foundation](https://riot.im/app)
 - FREE [Wire personnal | Wire Swiss GmbH](https://app.wire.com)
 - OFFRE [Mattermost |  Mattermost Inc](https://mattermost.com/trial)
 - OFFRE [Rainbow | Alcatel-Lucent](https://www.al-enterprise.com/en/business-continuity)
@@ -22,6 +23,7 @@ Liste d'applications/opportunités utiles pour les télétravailleurs dans le ca
 ## Partage de fichiers/textes/images 
 - FREE [Firefox Send | Mozilla](https://send.firefox.com)
 - FREE [PirvateBin | Simon Rupf](https://privatebin.info)
+- FREE [Syncthing | Jakob Borg](https://syncthing.net)
 
 ## Education
 - FREE [Resources pédagogiques CP:Grande Section | CNED](http://ressources-pedagogiques.org)
