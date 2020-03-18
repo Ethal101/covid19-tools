@@ -4,12 +4,15 @@ Liste d'applications/opportunités utiles pour les télétravailleurs dans le ca
 ***
 
 ## Informations pratiques sur le virus
-- INFO [Attestationt papier uniquement | NextInpact](https://www.nextinpact.com/news/108799-confinement-en-france-telechargez-modele-dattestation-obligatoire-en-cas-deplacement.htm)
-- INFO [Attestation circulation | GOUV](https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/03/attestation_de_deplacement_derogatoire.pdf)
+- INFO [Attestation papier uniquement | NextInpact](https://www.nextinpact.com/news/108799-confinement-en-france-telechargez-modele-dattestation-obligatoire-en-cas-deplacement.htm)
+- INFO [Attestation circulation | GOUV FR](https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/03/attestation_de_deplacement_derogatoire.pdf)
 - INFO [FAQ Virus | GOUV FR](https://www.gouvernement.fr/info-coronavirus)
 - INFO [Conseils au grand public | OMS](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
 - INFO [Résumé Virus | OMS](https://www.who.int/fr/health-topics/coronavirus/coronavirus)
-- INFO [FAW Virus | OMS](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses)
+- INFO [FAQ Virus | OMS](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses)
+
+## Collaboration 
+- FREE [OnlyOffice | Ascensio System SIA](https://personal.onlyoffice.com/fr)
 
 ## Visio/collab
 - FREE [Matrix | Matrix.org Foundation](https://riot.im/app)
@@ -20,6 +23,8 @@ Liste d'applications/opportunités utiles pour les télétravailleurs dans le ca
 
 ## Visioconférence 
 - FREE [Jitsi | Scaleway](https://ensemble.scaleway.com)
+- FREE [Jitsi | Jitsi](https://jitsi.org/jitsi-meet)
+- FREE/OFFRE [Webex | CISCO](https://help.webex.com/fr-fr/n80v1rcb/Cisco-Webex-Available-Free-in-These-Countries-COVID-19-Response)
 
 ## Partage de fichiers/textes/images 
 - FREE [Firefox Send | Mozilla](https://send.firefox.com)
