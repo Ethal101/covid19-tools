@@ -34,6 +34,15 @@ Liste d'applications/opportunités utiles pour les télétravailleurs dans le ca
 ## Education
 - FREE [Resources pédagogiques CP:Grande Section | CNED](http://ressources-pedagogiques.org)
 
+## Ressources mise en place et gestion du télétravail
+- EPUB PAYANT [Manager le travail à distance et le télétravail | Daniel Ollivier](https://www.eyrolles.com/Entreprise/Livre/manager-le-travail-a-distance-et-le-teletravail-9782378901325/)
+- EPUB PAYANT [Le télétravail en pratique | Matthieu Billette de Villemeur](https://www.la-librairie-rh.com/livre-rh/le-teletravail-en-pratique-teva.html)
+- FREE [Guide to Enterprise Telework, Remote Access, and Bring Your Own Device (BYOD) Security | NIST](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-46r2.pdf)
+- FREE [RECOMMANDATIONS SUR LENOMADISME NUMÉRIQUE | ANSSI](https://www.ssi.gouv.fr/uploads/2018/10/guide_nomadisme_anssi_pa_054_v1.pdf)
+- FREE [Sécurité : Authentifier les utilisateurs | CNIL](https://www.cnil.fr/fr/securite-authentifier-les-utilisateurs)
+- FREE [Sécurité : Tracer les accès et gérer les incidents | CNIL](https://www.cnil.fr/fr/securite-tracer-les-acces-et-gerer-les-incidents)
+- FREE [Authentification par mot de passe : les mesures de sécurité élémentaires | CNIL](https://www.cnil.fr/fr/authentification-par-mot-de-passe-les-mesures-de-securite-elementaires)
+
 ***
 
 ## SOURCES
