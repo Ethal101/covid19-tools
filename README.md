@@ -1,9 +1,11 @@
 # covid19-tools
-Liste d'applications/opportunités utiles pour les télétravailleurs dans le cadre du confinement pour lutter contre le Covid19.
+Liste d'applications/opportunités/infos utiles pour les télétravailleurs dans le cadre du confinement pour lutter contre le Covid19.
 
 ***
 
 ## Informations pratiques sur le virus
+- INFO [Coronavirus : nos conseils tech pour mieux télétravailler | ANSSI via LEPOINT](https://www.lepoint.fr/high-tech-internet/coronavirus-nos-conseils-tech-pour-mieux-teletravailler-18-03-2020-2367619_47.php#xtor=CS3-192)
+- INFO [Légalité des SMS reçus du gouvernement | CNIL](https://www.cnil.fr/fr/le-gouvernement-sadresse-aux-francais-par-sms-le-cadre-legal-applicable)
 - INFO [Attestation papier uniquement | NextInpact](https://www.nextinpact.com/news/108799-confinement-en-france-telechargez-modele-dattestation-obligatoire-en-cas-deplacement.htm)
 - INFO [Attestation circulation | GOUV FR](https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/03/attestation_de_deplacement_derogatoire.pdf)
 - INFO [FAQ Virus | GOUV FR](https://www.gouvernement.fr/info-coronavirus)
@@ -46,6 +48,8 @@ Liste d'applications/opportunités utiles pour les télétravailleurs dans le ca
 ***
 
 ## SOURCES
+- [Coronavirus : nos conseils tech pour mieux télétravailler | ANSSI via LEPOINT](https://www.linkedin.com/posts/anssi-fr_coronavirus-nos-conseils-tech-pour-mieux-activity-6646085382695981056-Cmrt)
+- [Légalité des SMS reçus du gouvernement | CNIL](https://www.linkedin.com/posts/cnil---commission-nationale-de-l%27informatique-et-des-libert-s_covid19-activity-6646331966209830912-BmXM)
 - [Resources pédagogiques CP/Grande Section | CNED](https://mastodon.gougere.fr/@bortzmeyer/103843108649885420)
 - [Rainbow | Alcatel-Lucent](https://open-solidarity.com)
 - [Jamespot | Jamespot](https://open-solidarity.com)
