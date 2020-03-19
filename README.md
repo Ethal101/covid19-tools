@@ -37,7 +37,9 @@ Liste d'applications/opportunités/infos utiles pour les télétravailleurs dans
 - FREE [Resources pédagogiques CP:Grande Section | CNED](http://ressources-pedagogiques.org)
 
 ## Ressources mise en place et gestion du télétravail
-- EPUB PAYANT [Manager le travail à distance et le télétravail | Daniel Ollivier](https://www.eyrolles.com/Entreprise/Livre/manager-le-travail-a-distance-et-le-teletravail-9782378901325/)
+- FREE [Méthode de gestion du temps Pomodoro | Christopher Curley](https://www.businessinsider.fr/on-a-teste-la-technique-pomodoro-et-decouper-son-temps-en-tranches-de-25-minutes-permet-de-rester-plus-concentre)
+- FREE [RETEX 20 ans de télétravail | Guillaume Champeau](https://twitter.com/gchampeau/status/1238200706844233728)
+- EPUB PAYANT [Manager le travail à distance et le télétravail | Daniel Ollivier](https://www.eyrolles.com/Entreprise/Livre/manager-le-travail-a-distance-et-le-teletravail-9782378901325)
 - EPUB PAYANT [Le télétravail en pratique | Matthieu Billette de Villemeur](https://www.la-librairie-rh.com/livre-rh/le-teletravail-en-pratique-teva.html)
 - FREE [Guide to Enterprise Telework, Remote Access, and Bring Your Own Device (BYOD) Security | NIST](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-46r2.pdf)
 - FREE [RECOMMANDATIONS SUR LENOMADISME NUMÉRIQUE | ANSSI](https://www.ssi.gouv.fr/uploads/2018/10/guide_nomadisme_anssi_pa_054_v1.pdf)
@@ -48,6 +50,7 @@ Liste d'applications/opportunités/infos utiles pour les télétravailleurs dans
 ***
 
 ## SOURCES
+- [RETEX 20 ans de télétravail | Guillaume Champeau](https://mamot.fr/@Cboy13/103814774102845312)
 - [Coronavirus : nos conseils tech pour mieux télétravailler | ANSSI via LEPOINT](https://www.linkedin.com/posts/anssi-fr_coronavirus-nos-conseils-tech-pour-mieux-activity-6646085382695981056-Cmrt)
 - [Légalité des SMS reçus du gouvernement | CNIL](https://www.linkedin.com/posts/cnil---commission-nationale-de-l%27informatique-et-des-libert-s_covid19-activity-6646331966209830912-BmXM)
 - [Resources pédagogiques CP/Grande Section | CNED](https://mastodon.gougere.fr/@bortzmeyer/103843108649885420)
