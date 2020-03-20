@@ -37,6 +37,10 @@ Liste d'applications/opportunités/infos utiles pour les télétravailleurs dans
 - FREE [Resources pédagogiques CP:Grande Section | CNED](http://ressources-pedagogiques.org)
 
 ## Ressources mise en place et gestion du télétravail
+- FREE [Management confiance et négociation | Bouygues Telecom](https://www.bouyguestelecom-entreprises.fr/bblog/teletravail-4-regles-dor-pour-manager-a-distance)
+- FREE [Communication non verbale et visibilité | Logitech International S.A](https://www.logitech.fr/fr-fr/video-collaboration/resources/think-tank/articles/article-3-tips-for-remote-workers.html)
+- FREE [Droit à la déconnexion | GOUV FR](https://travail-emploi.gouv.fr/archives/archives-courantes/loi-travail-2016/les-principales-mesures-de-la-loi-travail/article/droit-a-la-deconnexion)
+- FREE [Mémo pour télétravail (libre) | Framasoft](https://framasoft.frama.io/teletravail)
 - FREE [Méthode de gestion du temps Pomodoro | Christopher Curley](https://www.businessinsider.fr/on-a-teste-la-technique-pomodoro-et-decouper-son-temps-en-tranches-de-25-minutes-permet-de-rester-plus-concentre)
 - FREE [RETEX 20 ans de télétravail | Guillaume Champeau](https://twitter.com/gchampeau/status/1238200706844233728)
 - EPUB PAYANT [Manager le travail à distance et le télétravail | Daniel Ollivier](https://www.eyrolles.com/Entreprise/Livre/manager-le-travail-a-distance-et-le-teletravail-9782378901325)
@@ -50,6 +54,7 @@ Liste d'applications/opportunités/infos utiles pour les télétravailleurs dans
 ***
 
 ## SOURCES
+- [Mémo pour télétravail (libre) | Framasoft](https://framapiaf.org/@jeeynet/103852524565213853)
 - [RETEX 20 ans de télétravail | Guillaume Champeau](https://mamot.fr/@Cboy13/103814774102845312)
 - [Coronavirus : nos conseils tech pour mieux télétravailler | ANSSI via LEPOINT](https://www.linkedin.com/posts/anssi-fr_coronavirus-nos-conseils-tech-pour-mieux-activity-6646085382695981056-Cmrt)
 - [Légalité des SMS reçus du gouvernement | CNIL](https://www.linkedin.com/posts/cnil---commission-nationale-de-l%27informatique-et-des-libert-s_covid19-activity-6646331966209830912-BmXM)
