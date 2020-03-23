@@ -4,6 +4,7 @@ Liste d'applications/opportunités/infos utiles pour les télétravailleurs dans
 ***
 
 ## Informations pratiques sur le virus
+- INFO [Dashboard Coronavirus (COVID-19)| OMS](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
 - INFO [Coronavirus : nos conseils tech pour mieux télétravailler | ANSSI via LEPOINT](https://www.lepoint.fr/high-tech-internet/coronavirus-nos-conseils-tech-pour-mieux-teletravailler-18-03-2020-2367619_47.php#xtor=CS3-192)
 - INFO [Légalité des SMS reçus du gouvernement | CNIL](https://www.cnil.fr/fr/le-gouvernement-sadresse-aux-francais-par-sms-le-cadre-legal-applicable)
 - INFO [Attestation papier uniquement | NextInpact](https://www.nextinpact.com/news/108799-confinement-en-france-telechargez-modele-dattestation-obligatoire-en-cas-deplacement.htm)
@@ -37,6 +38,8 @@ Liste d'applications/opportunités/infos utiles pour les télétravailleurs dans
 - FREE [Resources pédagogiques CP:Grande Section | CNED](http://ressources-pedagogiques.org)
 
 ## Ressources mise en place et gestion du télétravail
+- FREE [Conseils management télétravail| Franck-Pagny](https://www.linkedin.com/pulse/kit-de-survie-pour-manager-%25C3%25A0-distance-franck-pagny)
+- FREE [Agilité, management, outils | Publicis Sapient](https://blog.engineering.publicissapient.fr/wp-content/uploads/2020/03/KIT-DE-SURVIE-EN-TRAVAIL-A-DISTANCE-POUR-LA-COMMUNAUTE-ET-NOS-CLIENTS.pdf)
 - FREE [Management confiance et négociation | Bouygues Telecom](https://www.bouyguestelecom-entreprises.fr/bblog/teletravail-4-regles-dor-pour-manager-a-distance)
 - FREE [Communication non verbale et visibilité | Logitech International S.A](https://www.logitech.fr/fr-fr/video-collaboration/resources/think-tank/articles/article-3-tips-for-remote-workers.html)
 - FREE [Droit à la déconnexion | GOUV FR](https://travail-emploi.gouv.fr/archives/archives-courantes/loi-travail-2016/les-principales-mesures-de-la-loi-travail/article/droit-a-la-deconnexion)
@@ -54,6 +57,7 @@ Liste d'applications/opportunités/infos utiles pour les télétravailleurs dans
 ***
 
 ## SOURCES
+- [Agilité, management, outils | Publicis Sapient](https://mastodon.social/@alatitude77/103872253362622622)
 - [Mémo pour télétravail (libre) | Framasoft](https://framapiaf.org/@jeeynet/103852524565213853)
 - [RETEX 20 ans de télétravail | Guillaume Champeau](https://mamot.fr/@Cboy13/103814774102845312)
 - [Coronavirus : nos conseils tech pour mieux télétravailler | ANSSI via LEPOINT](https://www.linkedin.com/posts/anssi-fr_coronavirus-nos-conseils-tech-pour-mieux-activity-6646085382695981056-Cmrt)
