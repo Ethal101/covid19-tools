@@ -4,7 +4,8 @@ Liste d'applications/opportunités/infos utiles pour les télétravailleurs dans
 ***
 
 ## Informations pratiques sur le virus
-- INFO [Dashboard Coronavirus (COVID-19)| OMS](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
+- INFO [Dashboard COVID-19 France Metro & DOM TOM | Data GOUV FR / Thibaut Fabacher](https://www.data.gouv.fr/fr/reuses/5e7c79e87df4123db9049215/)
+- INFO [Dashboard COVID-19 Monde | OMS](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
 - INFO [Coronavirus : nos conseils tech pour mieux télétravailler | ANSSI via LEPOINT](https://www.lepoint.fr/high-tech-internet/coronavirus-nos-conseils-tech-pour-mieux-teletravailler-18-03-2020-2367619_47.php#xtor=CS3-192)
 - INFO [Légalité des SMS reçus du gouvernement | CNIL](https://www.cnil.fr/fr/le-gouvernement-sadresse-aux-francais-par-sms-le-cadre-legal-applicable)
 - INFO [Attestation papier uniquement | NextInpact](https://www.nextinpact.com/news/108799-confinement-en-france-telechargez-modele-dattestation-obligatoire-en-cas-deplacement.htm)
@@ -54,9 +55,13 @@ Liste d'applications/opportunités/infos utiles pour les télétravailleurs dans
 - FREE [Sécurité : Tracer les accès et gérer les incidents | CNIL](https://www.cnil.fr/fr/securite-tracer-les-acces-et-gerer-les-incidents)
 - FREE [Authentification par mot de passe : les mesures de sécurité élémentaires | CNIL](https://www.cnil.fr/fr/authentification-par-mot-de-passe-les-mesures-de-securite-elementaires)
 
+## Confinement
+- FREE [Effets psy confinement et solutions | Jérémie Gallen](https://www.youtube.com/watch?v=VvuVFRn5bYY)
+
 ***
 
 ## SOURCES
+- [Dashboard COVID-19 France Metro & DOM TOM | Data GOUV FR / Thibaut Fabacher](https://amicale.net/@opendata/103894391433677223)
 - [Agilité, management, outils | Publicis Sapient](https://mastodon.social/@alatitude77/103872253362622622)
 - [Mémo pour télétravail (libre) | Framasoft](https://framapiaf.org/@jeeynet/103852524565213853)
 - [RETEX 20 ans de télétravail | Guillaume Champeau](https://mamot.fr/@Cboy13/103814774102845312)
