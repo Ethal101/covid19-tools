@@ -4,6 +4,7 @@ Liste d'applications/opportunités/infos utiles pour les télétravailleurs dans
 ***
 
 ## Informations pratiques sur le virus
+- INFO [Information nvl attestation | Francetvinfo](https://www.francetvinfo.fr/sante/maladie/coronavirus/coronavirus-voici-comment-utiliser-la-nouvelle-attestation-numerique-de-deplacement-lors-du-confinement-disponible-sur-mobile-ce-matin_3901985.html)
 - INFO [Dashboard COVID-19 France Metro & DOM TOM | Data GOUV FR / Thibaut Fabacher](https://www.data.gouv.fr/fr/reuses/5e7c79e87df4123db9049215/)
 - INFO [Dashboard COVID-19 Monde | OMS](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
 - INFO [Coronavirus : nos conseils tech pour mieux télétravailler | ANSSI via LEPOINT](https://www.lepoint.fr/high-tech-internet/coronavirus-nos-conseils-tech-pour-mieux-teletravailler-18-03-2020-2367619_47.php#xtor=CS3-192)
@@ -39,6 +40,8 @@ Liste d'applications/opportunités/infos utiles pour les télétravailleurs dans
 - FREE [Resources pédagogiques CP:Grande Section | CNED](http://ressources-pedagogiques.org)
 
 ## Ressources mise en place et gestion du télétravail
+- FREE [Retex management télétravail](https://www.widoobiz.com/2020/04/02/teletravail-comment-piloter-ses-equipes-a-distance/)
+- FREE [Reco. sécurité télétravail | GOUV FR](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/recommandations-securite-informatique-teletravail)
 - FREE [Conseils management télétravail| Franck-Pagny](https://www.linkedin.com/pulse/kit-de-survie-pour-manager-%25C3%25A0-distance-franck-pagny)
 - FREE [Agilité, management, outils | Publicis Sapient](https://blog.engineering.publicissapient.fr/wp-content/uploads/2020/03/KIT-DE-SURVIE-EN-TRAVAIL-A-DISTANCE-POUR-LA-COMMUNAUTE-ET-NOS-CLIENTS.pdf)
 - FREE [Management confiance et négociation | Bouygues Telecom](https://www.bouyguestelecom-entreprises.fr/bblog/teletravail-4-regles-dor-pour-manager-a-distance)
