@@ -1,5 +1,5 @@
 # covid19-tools
-Liste d'applications/opportunités/infos utiles pour les télétravailleurs dans le cadre du confinement pour lutter contre le Covid19.
+Liste de liens utiles/intéressants concernant la crise sanitaire du covid 19. Orienté télétravail, management, informations et outils.
 
 ***
 
@@ -61,9 +61,18 @@ Liste d'applications/opportunités/infos utiles pour les télétravailleurs dans
 ## Confinement
 - FREE [Effets psy confinement et solutions | Jérémie Gallen](https://www.youtube.com/watch?v=VvuVFRn5bYY)
 
+## Surveillance/suivi déconfinement
+- FREE [Projet de surveillances par pays | Dave Gershgorn](https://onezero.medium.com/the-pandemic-is-a-trojan-horse-for-surveillance-programs-around-the-world-887fa6f12ec9)
+- FREE [Pdv sur le protocole BlueTrace | Olivier Laurelli](https://bearstech.com/societe/blog/bluetrace-est-il-vraiment-un-outil-de-surveillance-de-masse-en-bluetooth)
+- FREE [Arguments contre | La quadrature du net](https://www.laquadrature.net/2020/04/14/nos-arguments-pour-rejeter-stopcovid)
+- FREE [10 requirements "Contact Tracing" apps | CCC](https://www.ccc.de/en/updates/2020/contact-tracing-requirements)
+- FREE [Cadrage CNIL | CNIL](https://www.cnil.fr/fr/crise-sanitaire-audition-de-marie-laure-denis-presidente-de-la-cnil-devant-la-commission-des-lois)
+
 ***
 
 ## SOURCES
+- [10 requirements "Contact Tracing" apps | CCC](https://bearstech.com/societe/blog/bluetrace-est-il-vraiment-un-outil-de-surveillance-de-masse-en-bluetooth)
+- [Arguments contre | La quadrature du net](https://mamot.fr/@LaQuadrature/103997512563976536)
 - [Dashboard COVID-19 France Metro & DOM TOM | Data GOUV FR / Thibaut Fabacher](https://amicale.net/@opendata/103894391433677223)
 - [Agilité, management, outils | Publicis Sapient](https://mastodon.social/@alatitude77/103872253362622622)
 - [Mémo pour télétravail (libre) | Framasoft](https://framapiaf.org/@jeeynet/103852524565213853)
