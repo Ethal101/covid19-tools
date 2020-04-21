@@ -62,6 +62,7 @@ Liste de liens utiles/intéressants concernant la crise sanitaire du covid 19. O
 - FREE [Effets psy confinement et solutions | Jérémie Gallen](https://www.youtube.com/watch?v=VvuVFRn5bYY)
 
 ## Surveillance/suivi déconfinement
+- FREE [Analyse de risques à destination des non-spécialistes | Collectif de chercheurs](https://risques-tracage.fr/docs/risques-tracage.pdf)
 - FREE [Projet de surveillances par pays | Dave Gershgorn](https://onezero.medium.com/the-pandemic-is-a-trojan-horse-for-surveillance-programs-around-the-world-887fa6f12ec9)
 - FREE [Pdv sur le protocole BlueTrace | Olivier Laurelli](https://bearstech.com/societe/blog/bluetrace-est-il-vraiment-un-outil-de-surveillance-de-masse-en-bluetooth)
 - FREE [Arguments contre | La quadrature du net](https://www.laquadrature.net/2020/04/14/nos-arguments-pour-rejeter-stopcovid)
@@ -71,6 +72,7 @@ Liste de liens utiles/intéressants concernant la crise sanitaire du covid 19. O
 ***
 
 ## SOURCES
+- [Analyse de risques à destination des non-spécialistes | Framasoft](https://framapiaf.org/@brab/104035590680321773)
 - [10 requirements "Contact Tracing" apps | CCC](https://bearstech.com/societe/blog/bluetrace-est-il-vraiment-un-outil-de-surveillance-de-masse-en-bluetooth)
 - [Arguments contre | La quadrature du net](https://mamot.fr/@LaQuadrature/103997512563976536)
 - [Dashboard COVID-19 France Metro & DOM TOM | Data GOUV FR / Thibaut Fabacher](https://amicale.net/@opendata/103894391433677223)
