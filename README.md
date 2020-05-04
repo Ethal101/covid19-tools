@@ -4,6 +4,8 @@ Liste de liens utiles/intéressants concernant la crise sanitaire du covid 19. O
 ***
 
 ## Informations pratiques sur le virus
+- INFO [Stratégie de déconfinement | GOUV FR](https://www.gouvernement.fr/info-coronavirus/strategie-de-deconfinement)
+- INFO [Carte déconfinement | Thomas Vergouwen](https://www.data.gouv.fr/fr/reuses/carte-du-deconfinement)
 - INFO [Information nvl attestation | Francetvinfo](https://www.francetvinfo.fr/sante/maladie/coronavirus/coronavirus-voici-comment-utiliser-la-nouvelle-attestation-numerique-de-deplacement-lors-du-confinement-disponible-sur-mobile-ce-matin_3901985.html)
 - INFO [Dashboard COVID-19 France Metro & DOM TOM | Data GOUV FR / Thibaut Fabacher](https://www.data.gouv.fr/fr/reuses/5e7c79e87df4123db9049215/)
 - INFO [Dashboard COVID-19 Monde | OMS](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
@@ -40,6 +42,7 @@ Liste de liens utiles/intéressants concernant la crise sanitaire du covid 19. O
 - FREE [Resources pédagogiques CP:Grande Section | CNED](http://ressources-pedagogiques.org)
 
 ## Ressources mise en place et gestion du télétravail
+- FREE [Telework Guidance and Resources | CISA US GOUV](https://www.cisa.gov/telework)
 - FREE [Retex management télétravail](https://www.widoobiz.com/2020/04/02/teletravail-comment-piloter-ses-equipes-a-distance/)
 - FREE [Reco. sécurité télétravail | GOUV FR](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/actualites/recommandations-securite-informatique-teletravail)
 - FREE [Conseils management télétravail| Franck-Pagny](https://www.linkedin.com/pulse/kit-de-survie-pour-manager-%25C3%25A0-distance-franck-pagny)
